@@ -1,0 +1,23 @@
+{
+  "name": "conatel-react-app",
+  "version": "1.0.0",
+  "description": "Tool to create a app in Conatel",
+  "main": "index.js",
+  "bin": {
+    "conatel-create-react-app": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/conapps/conatel-react-app.git"
+  },
+  "author": "Agustin Navcevich",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/conapps/conatel-react-app/issues"
+  },
+  "homepage": "https://github.com/conapps/conatel-react-app#readme",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "child_process": "^1.0.2"
+  }
+}
