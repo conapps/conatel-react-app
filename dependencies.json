@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "classnames": "^2.2.6",
+    "connected-react-router": "^5.0.1",
+    "evergreen-ui": "^4.6.0",
+    "history": "^4.7.2",
+    "lodash": "^4.17.11",
+    "prop-types": "^15.6.2",
+    "react-redux": "^5.1.1",
+    "react-router": "^4.3.1",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "2.1.1",
+    "recompose": "^0.30.0",
+    "redux": "^4.0.1",
+    "redux-observable": "^1.0.0",
+    "rxjs": "^6.3.3"
+  }
+}
