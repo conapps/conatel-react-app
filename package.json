@@ -1,6 +1,6 @@
 {
   "name": "conatel-react-app",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Tool to create a app in Conatel",
   "main": "index.js",
   "bin": {
