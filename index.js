@@ -53,6 +53,8 @@ const copyDockerFiles = () => {
     execSync(`cp ${path.join(__dirname, "Dockerfile")} ${appName}/Dockerfile`)
     console.log(chalk.cyan("\nCopying docker-compose.yml\n"));
     execSync(`cp ${path.join(__dirname, "docker-compose.yml")} ${appName}/docker-compose.yml`)
+    console.log(chalk.cyan("\nCopying nginx.conf\n"));
+    execSync(`cp ${path.join(__dirname, "nginx.conf")} ${appName}/nginx.conf.yml`)
   } catch(e){
     console.log(e);
     return false;
