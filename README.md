@@ -1,6 +1,6 @@
 # Conatel React App
 
-Cree aplicaciones React sin configuración de compilación con un plantilla predeterminada para las aplicaciones de CONATEL.
+Cree aplicaciones React sin configuración de compilación con un plantilla predeterminada por CONATEL.
 
 Conatel React App funciona en macOS, Windows y Linux.
 
